@@ -1,0 +1,43 @@
+2
+CUST1001
+azan
+lahore
+2112
+1
+ACC5001
+Savings
+109900
+4
+2025-06-10 15:51:45
+Deposit
+10000
+Initial Deposit
+2025-06-10 15:53:17
+Deposit
+120000
+Amount deposited
+2025-06-10 15:53:45
+Withdraw
+100
+Amount withdrawn
+2025-06-10 15:55:44
+Transfer
+20000
+Transferred to acc ACC5002
+CUST1002
+asim
+sg
+1221
+1
+ACC5002
+Savings
+220000
+2
+2025-06-10 15:55:30
+Deposit
+200000
+Initial Deposit
+2025-06-10 15:55:44
+Transfer
+20000
+Received from acc ACC5001
