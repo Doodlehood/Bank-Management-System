@@ -30,7 +30,6 @@ Bank-Management-System/
 │
 ├── project.cpp
 ├── project_by_me.cpp
-├── project_by_shahbaz.cpp
 ├── bank_data.txt
 ├── .gitignore
 └── README.md
@@ -42,7 +41,6 @@ Bank-Management-System/
 | ------------------------ | ---------------------------------------------- |
 | `project.cpp`            | Main project implementation                    |
 | `project_by_me.cpp`      | Personal implementation/version of the project |
-| `project_by_shahbaz.cpp` | Another implementation/version                 |
 | `bank_data.txt`          | File used for storing bank/account data        |
 | `.gitignore`             | Specifies files that Git should ignore         |
 
